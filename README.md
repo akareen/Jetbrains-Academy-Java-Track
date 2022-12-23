@@ -1,5 +1,8 @@
 # Jetbrains Academy: Python Track
 
+143 / 261 Completed Theory Topics
+130 / 192 Applied Core Topics (Applied through Projects)
+
 This is a repository to store all the projects that I will be completing in the Java track.
 
 **Completed:**
@@ -17,4 +20,4 @@ This is a repository to store all the projects that I will be completing in the 
 - [x] Simple Search Engine: Searches a text file with the modes of ANY, ALL or NONE
 
 *Challenging Projects:*
-- [ ]
+- [ ] Guess the Animal: 
